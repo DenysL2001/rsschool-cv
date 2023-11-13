@@ -1,1 +1,1 @@
-https://github.com/DenysL2001/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/DenysL2001/rsschool-cv
